@@ -1,0 +1,72 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "area": "producción"
+    },
+    {
+      "id": 2,
+      "nombre": "Ana López",
+      "area": "finanzas"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos García",
+      "area": "contabilidad"
+    },
+    {
+      "id": 4,
+      "nombre": "Andrea Varela",
+      "area": "producción"
+    }
+  ],
+  "vehiculos": [
+    {
+      "id": 1,
+      "tipo": "automóvil",
+      "placa": "ABC123",
+      "color": "rojo"
+    },
+    {
+      "id": 2,
+      "tipo": "moto",
+      "placa": "XYZ456",
+      "color": "negro"
+    },
+    {
+      "id": 3,
+      "tipo": "automóvil",
+      "placa": "LMN789",
+      "color": "azul"
+    },
+    {
+      "id": 4,
+      "tipo": "moto",
+      "placa": "ABC123",
+      "color": "Musgo"
+    }
+  ],
+  "asignaciones": [
+    {
+      "id": 1,
+      "empleadoId": 2,
+      "vehiculoId": 2
+    },
+    {
+      "id": 2,
+      "empleadoId": 2,
+      "vehiculoId": 2
+    },
+    {
+      "id": 3,
+      "empleadoId": 3,
+      "vehiculoId": 3
+    },
+    {
+      "id": 4,
+      "empleadoId": 2,
+      "vehiculoId": 1
+    }
+  ]
+}
