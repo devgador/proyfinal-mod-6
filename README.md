@@ -21,16 +21,16 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 #PROYECTO MODULO 6  - Proyecto 
 
 
-##INTEGRANTES
-    ###Mijail Lazcano Ballesteros - 5767656
+## INTEGRANTES
+    ### Mijail Lazcano Ballesteros - 5767656
 
-##INSTALACION 
+## INSTALACION 
     ### -npm install
     ### npm install -g json-server@0.17.1 
-    ### json-server --watch db/db.json --port 3001         
+    ### npm run start       
     ### npm run serve    
 
- ##CONSIDERACIONES   
+ ## CONSIDERACIONES   
     ### Todos los módulos tienen busqueda
     ### El módulo de CITAS tiene busqueda por filtro según la fecha.                            
     ### Puerto json-server = 3001
